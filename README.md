@@ -1,0 +1,2 @@
+# pomodoro
+Proyect => Pomodoro Counter
